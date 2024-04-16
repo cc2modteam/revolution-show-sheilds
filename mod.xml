@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data name="Revolution - Show Shields" author="Bredroll" description="
 
-Show the island difficulty (shield count) icons when on the holomap as in unmodded CC2.
+Show the island difficulty (shield count) icons when on the holomap but hide the production types
+of far away islands.
 
 Requires the Revolution Mod.
 
